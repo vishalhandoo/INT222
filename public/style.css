@@ -9,7 +9,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #f8f8f8;
+    background: #c5f3ee;
     font-family: 'Roboto',sans-serif;
 
 }
@@ -59,11 +59,11 @@ textarea{
     position: relative;
 }
 .incoming{
-    background: #8f8be8;
+    background: #8be88d;
     color: #fff;
 }
 .outgoing{
-    background: #e9eafd;
+    background: #b9fcc7;
     color: #787986;
     margin-left: auto;
 }
